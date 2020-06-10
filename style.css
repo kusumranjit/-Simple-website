@@ -1,0 +1,114 @@
+#topheader{
+   
+   border-bottom:rgb(170, 38, 38) solid 1px ;
+   
+ 
+   
+  
+}
+    
+ #topheader a{
+  color: #2d3436;
+
+  font-style: normal;
+   font-weight: 500 ;
+}
+
+
+
+.container-fluid{
+ 
+   padding-left: 0px;
+padding-right: 0px;
+
+}
+
+.dropdown-menu a:hover{
+   background-color: rgb(76, 76, 204);
+}
+
+nav ul li a{
+   font-weight:500;
+   font-style: normal;
+   font-size: 18px;
+  
+   
+}
+/* end of top section  */
+/* start of mid section  */
+.top-hero-section{
+   background-color:#3498db;
+   color: white;
+}
+.top-hero-section a{
+   font-size: 20px;
+   
+   color: white;
+}
+.mid-section{
+background-color:#004d80;
+color: whitesmoke;
+}
+.newsletter{
+background-color:#004d80;
+
+color: whitesmoke;
+}
+.newsletter .form-control{
+   height: 40px;
+   border-color: transparent;
+   border-top-left-radius: 20px;
+   border-bottom-left-radius: 20px;
+}
+
+.newsletter .btn{
+  min-height: 40px;
+   border-color: transparent;
+   border-top-right-radius: 20px;
+   border-bottom-right-radius: 20px;
+   background-color: #228eb9;
+   color: whitesmoke;
+
+}
+.client-section{
+   align-items: center;
+   
+}
+.client-section .col{
+   background-color:#3498db;
+   color:white;
+   border: transparent;
+   border-radius: 20px;
+}
+
+.newsletter .form-control {
+   font-size: 20px; 
+   font-weight: 100;
+
+}
+
+.form-section{
+   background-color:#b5cbda;
+}
+
+
+.full-footer{
+   background-color:#243d4f;
+
+   width: 100%;
+}
+   
+.top-footer{
+   color: rgb(240, 232, 232);
+}
+.top-footer a{
+   color: rgb(226, 217, 217);
+   font-size: 17px;
+}
+  .bottom-footer 
+  {
+     color:white;
+     
+     background-color:#1c3546;
+     height:30px;
+  }
